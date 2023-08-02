@@ -1,7 +1,7 @@
 [![Braydon's GitHub Banner](./assets/profile_banner.png)](https://prodip-dev.web.app/)
 
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/prodipwev)
-[![Facebook Badge](https://img.shields.io/badge/facebook-Profile-informational?style=flat&logo=facebook&logoColor=white&color=1CA2F1)](https://facebook.com/prodipwev)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=0D76A8)](https://twitter.com/prodipwev)
+[![Facebook Badge](https://img.shields.io/badge/facebook-Profile-informational?style=flat&logo=facebook&logoColor=white&color=0D76A8)](https://facebook.com/prodipwev)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/prodipdev/)
 
 Hello there 👋
@@ -13,7 +13,7 @@ Want to know more about me? [Check out my portfolio.](https://prodip-dev.web.app
 <br>
 <br>
 
-## &#x1f4c8; Language Stats
+## &#x1f4c8; GitHub Stats
 
 <br>
 
