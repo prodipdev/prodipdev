@@ -1,4 +1,3 @@
-[![Braydon's GitHub Banner](https://i.ibb.co.com/2dcXz3j/Black-Minimalist-Corporate-Professional-Profile-Linked-In-Banner.png)](https://prodip-dev.web.app/)
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=0D76A8)](https://twitter.com/prodipwev)
 [![Facebook Badge](https://img.shields.io/badge/facebook-Profile-informational?style=flat&logo=facebook&logoColor=white&color=0D76A8)](https://facebook.com/prodipwev)
